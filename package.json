@@ -1,0 +1,15 @@
+{
+  "name": "react-native-photo-picker",
+  "version": "1.0.0",
+  "description": "android端图片选择组件，仿微信头像选择功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "android",
+    "picker"
+  ],
+  "author": "glustful",
+  "license": "ISC"
+}
